@@ -12,9 +12,9 @@ A modern React application built with Vite, featuring task management, blog post
 ![alt text](1.jpeg)
 ![alt text](2.jpeg)
 
-##Add and delete task
-  # Navigate to the task section 
-  # You will be able to add and delete tasks
+# Add and delete task
+  ## Navigate to the task section 
+  ## You will be able to add and delete tasks
   
 ### 1. Create the Project
 ```bash
