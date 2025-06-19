@@ -1,16 +1,21 @@
 
 # My React App - Setup & Guide
-[react-lsma.vercel.app](https://react-lsma.vercel.app/)
+
 
 A modern React application built with Vite, featuring task management, blog posts, dark/light theme, and responsive design.
 
 ## 🚀 Quick Setup
 
 ## My deployement Url
-
+[react-lsma.vercel.app](https://react-lsma.vercel.app/)
 ## My application on my browser
 ![alt text](1.jpeg)
 ![alt text](2.jpeg)
+
+##Add and delete task
+  # Navigate to the task section 
+  # You will be able to add and delete tasks
+  
 ### 1. Create the Project
 ```bash
 # Navigate to your project folder
